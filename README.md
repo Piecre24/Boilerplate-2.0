@@ -1,6 +1,6 @@
 ## This Repo is be use as a boilerplate for any personal project will constantly be updated
 
-# Thing to do
+# Things to do
 - Script npm run dev []
 - Redux []
 - Server Deployment (//Remove run database) []
