@@ -9,11 +9,10 @@ export class App extends React.Component {
           <h1>React/Redux BoilerPlate</h1>
           <p> This can be used for future projects and its open source</p>
           <div className= 'buttons'>
-            <a herf="https://github.com/Piecre24/Boilerplate-2.0" className="button-github"> Github</a>
-            <a herf="" className="button-code"> Code</a>
+            <a href="https://github.com/Piecre24/Boilerplate-2.0" className="button-github"> Github</a>
+            <a href="" className="button-code">Code</a>
           </div>
         </div>
-
       </>
     )
   }
