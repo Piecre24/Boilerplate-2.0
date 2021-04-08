@@ -1,12 +1,13 @@
 ## This Repo is be use as a boilerplate for any personal project will constantly be updated
 
 # Things to do
-- Script npm run dev []
-- Redux []
-- Server Deployment (//Remove run database) []
+- Deployment to AWS
+- Script npm run dev [x]
+- Redux [x]
+- Server Deployment (//Remove run database) [x]
 - Database functionality []
 - Make a dev branch []
-- Construct a welcoming react page []
+- Construct a welcoming react page [x]
 
 ## What do I want out of this?
 

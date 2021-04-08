@@ -7,8 +7,13 @@ import thunk from 'redux-thunk'
 import { HashRouter as Router } from 'react-router-dom'
 import { createStore, applyMiddleware, compose } from 'redux'
 
+// Amplify
+import Amplify from 'aws-amplify'
+import awsExports from '../src/aws-exports'
+
 import App from './components/App'
 import reducers from './reducers/index'
+Amplify.configure(awsExports)
 
 // Redux stuffs
 const composeEnhancers = window.__REDUX_DEVTOOLS_EXTENSION_COMPOSE__ || compose
