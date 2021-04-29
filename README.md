@@ -1,4 +1,4 @@
-## This Repo is be use as a boilerplate for any personal project will constantly be updated
+## This Biolerplate consist of React and Node.JS
 
 # Things to do
 - Script npm run dev []
