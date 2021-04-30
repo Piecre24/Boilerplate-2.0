@@ -1,12 +1,14 @@
 ## This Biolerplate consist of React and Node.JS
 
 # Things to do
-- Script npm run dev []
-- Redux []
-- Server Deployment (//Remove run database) []
+- Script npm run dev [x]
+- Redux [x]
+- Server Deployment[x]
 - Database functionality []
 - Make a dev branch []
-- Construct a welcoming react page []
+- Heroku Cloud deployment [x]
+- AWS deployment [x]
+- Construct a welcoming react page [x]
 
 ## What do I want out of this?
 
